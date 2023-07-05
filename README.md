@@ -1,5 +1,12 @@
 ### Falling in love with Code a day at a time. 
 
+
+### Technologies and Tools
+
+Html Css Javascript React Node.js Git Ruby Express.js PostgreSQL Tailwind Bootstrap
+
+
+
 <!--
 **oashitta/oashitta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
