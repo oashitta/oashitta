@@ -1,4 +1,4 @@
-### Hi there 👋
+### Falling in love with Code a day at a time. 
 
 <!--
 **oashitta/oashitta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
